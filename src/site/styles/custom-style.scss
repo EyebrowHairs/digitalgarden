@@ -10,7 +10,5 @@ body {
     //  h1 {
     //   color: black;
     //  }
-    .sidebar-container:not(:has(.graph)) .toc-container {
-    max-height: unset;
-}
+   .notelink.active-note { transform: unset; }
 }
