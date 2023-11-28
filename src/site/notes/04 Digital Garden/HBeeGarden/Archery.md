@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Archery.md","permalink":"/archery/","updated":"2023-11-27T10:40:56.773-05:00"}
+{"dg-publish":true,"dg-path":"Archery.md","permalink":"/archery/","updated":"2023-11-28T10:10:36.021-05:00"}
 ---
 
 # Archery
@@ -10,7 +10,7 @@
 ## Notes
 - I started my journey into archery in September, 2023 and am currently interested in Olympic recurve style. Someday, I want to be able to hit the target with some degree of accuracy at 70m!
 - Archery is all about mastery of form. You train to make your movements as consistent as possible so that when you are able to hit the target, you can replicate it.
-- Beyond pure replication of form, there is likely a degree of intuition/finesse among the top archers, to compensate for all the variables that are less controllable, such as lighting, wind, weather, and physical and mental state. Probably after all that practice, you can sense how an adjustment will make your arrow fly where you want it to.
+- Beyond pure replication of form, there is likely a degree of intuition/finesse among the top archers, to compensate for all the variables that are less controllable, such as lighting, wind, weather, and physical and mental state. After all that practice, you can probably sense what to adjust to make your arrow fly where you want it to.
 
 ## Tips and Resources
 ### Your First (Recurve) Bow
