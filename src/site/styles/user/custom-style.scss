@@ -10,12 +10,6 @@ body {
     //  h1 {
     //   color: black;
     //  }
-   .notelink.active-note { transform: unset; 
-    }
-    
-   .sidebar-container:not(:has(.graph)) .toc-container {
-    max-height: unset;
-    }
 
     .toc-container {
     ul {
