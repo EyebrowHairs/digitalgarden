@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Welcome.md","permalink":"/welcome/","pinned":true,"tags":["gardenEntry"],"updated":"2023-11-27T10:46:29.791-05:00"}
+{"dg-publish":true,"dg-path":"Welcome.md","permalink":"/welcome/","pinned":true,"tags":["gardenEntry"],"updated":"2023-11-28T10:51:09.965-05:00"}
 ---
 
 # Welcome
@@ -8,7 +8,10 @@
 
 Welcome to my digital garden, a small corner of the internet where I share interesting and useful tidbits on a seemingly random assortment of interests.
 
-The current organizational scheme is: **one alphabetized list**
+The current organizational scheme is: **an alphabetized list with a few themes emerging**
 
 ### Navigation
 Browse through topics on the left ⬅ and explore related topics on the right ➡️
+
+### About the Garden
+If you're interested in technical-ish details: [[04 Digital Garden/HBeeGarden/About this Garden\|About this Garden]]
