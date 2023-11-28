@@ -12,7 +12,21 @@ body {
     //  }
    .notelink.active-note { transform: unset; 
     }
+    
    .sidebar-container:not(:has(.graph)) .toc-container {
     max-height: unset;
     }
+
+    .toc-container {
+    ul {
+        padding-inline-start: 5px !important;
+    }
+    li {
+        &::before {
+            content: " " !important;
+        }
+        }
+    }
+
+    
 }
