@@ -10,11 +10,20 @@ body {
     //  h1 {
     //   color: black;
     //  }
-
-    .toc-container {
-    ul {
-        padding-inline-start: 5px !important;
+   .notelink.active-note { transform: unset; 
     }
+    
+   .sidebar-container:not(:has(.graph)) .toc-container {
+    max-height: unset;
+    }
+
+    .toc {
+    ol {
+        padding-left: 5px;
+    }
+}
+    
+    .toc-container {
     li {
         &::before {
             content: " " !important;
